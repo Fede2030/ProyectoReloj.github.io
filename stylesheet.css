@@ -1,0 +1,16 @@
+#clock {
+    font-size: 72px;
+    text-align: center;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+p{
+    text-align: center;
+}
+img{
+    text-align: center;
+}
